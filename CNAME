@@ -1,1 +1,5 @@
-www.lumiya.io
+WWW.LUMIYA.IO +nostats +nocomments +nocmd
+;WWW.LUMIYA.IO.                     IN      A
+WWW.LUMIYA.IO.              3592    IN      CNAME   mtv90.github.io.
+mtv90.github.io.      43192   IN      CNAME    GITHUB-PAGES-SERVER .
+GITHUB-PAGES-SERVER .         22      IN      A       192.0.2.1
